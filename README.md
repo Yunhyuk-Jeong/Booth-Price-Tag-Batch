@@ -11,11 +11,11 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 
 
 
-![01](.\Image\01.webp)
+![01]([.\Image\01.webp](https://github.com/Yunhyuk-Jeong/Booth-Price-Tag-Batch/blob/main/Image/01.webp))
 
-![02](.\Image\02.webp)
+![02]([.\Image\02.webp](https://github.com/Yunhyuk-Jeong/Booth-Price-Tag-Batch/blob/main/Image/02.webp))
 
-![03](.\Image\03.webp)
+![03]([.\Image\03.webp](https://github.com/Yunhyuk-Jeong/Booth-Price-Tag-Batch/blob/main/Image/03.webp))
 
 
 
@@ -27,7 +27,7 @@ https://gist.github.com/Yunhyuk-Jeong/c83e0094464280aae8c9a834acc94d3d/raw/86ffa
 
 
 
-![04](.\Image\04.webp)
+![04]([.\Image\04.webp](https://github.com/Yunhyuk-Jeong/Booth-Price-Tag-Batch/blob/main/Image/04.webp))
 
 부스 상품 편집 페이지에서 해당 팝업이 뜨게 됩니다.
 
